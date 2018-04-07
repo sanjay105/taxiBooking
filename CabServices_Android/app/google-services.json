@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "596723725141",
+    "firebase_url": "https://dbscabs-1523079273535.firebaseio.com",
+    "project_id": "dbscabs-1523079273535",
+    "storage_bucket": "dbscabs-1523079273535.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596723725141:android:a754d3bdc69b6fa2",
+        "android_client_info": {
+          "package_name": "com.dbs.cabservices.cabservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596723725141-1q6s6eu3fjhtqsgvl6903krgdjhoal24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA81Z5WEnS_g8FtX6LxuTDUxiqtoiL3Uo4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
